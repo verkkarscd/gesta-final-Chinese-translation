@@ -9,12 +9,20 @@ Preview:
 
 main
 菜单
+
 ![image](https://github.com/verkkarscd/gesta-final-Chinese-translation/blob/main/Screenshots/main.png)
 
 Role selection
 选择角色
+
 ![image](https://github.com/verkkarscd/gesta-final-Chinese-translation/blob/main/Screenshots/player.png)
 
 load...
 加载界面
+
 ![image](https://github.com/verkkarscd/gesta-final-Chinese-translation/blob/main/Screenshots/load.png)
+
+Game screen
+游戏画面
+
+![image](https://github.com/verkkarscd/gesta-final-Chinese-translation/blob/main/Screenshots/game.png)
